@@ -10,4 +10,3 @@ print ("Ok. But I want to open one door for you. "
         "and we will see what's there. Oh! Goat here! "
         f"Do you still want to open the door number {choice}?")
 choice2 = int(input("Choose the door number: %s or %s ?" % (choice, close_door)))
-
