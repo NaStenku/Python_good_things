@@ -1,2 +1,2 @@
 # Python_good_things
-![Screenshot](https://paste.opensuse.org/view/simple/25288558) 
+![Screenshot](https://github.com/NaStenku/Python_good_things/blob/master/Tkinter.png) 
